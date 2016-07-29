@@ -1,0 +1,6 @@
+= coolboy
+
+Describe your project here
+
+:include:coolboy.rdoc
+

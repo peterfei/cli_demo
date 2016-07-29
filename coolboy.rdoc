@@ -1,0 +1,5 @@
+= coolboy
+
+Generate this with
+    coolboy rdoc
+After you have described your command line interface
